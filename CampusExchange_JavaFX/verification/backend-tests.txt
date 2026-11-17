@@ -1,0 +1,66 @@
+Them do vat thanh cong!
+-> Thành công: Đã đăng bài thành công [Mã: P01]!
+PASS Chuẩn hóa mã
+PASS Chuẩn hóa hình thức
+PASS Chặn User trùng mã
+PASS Chặn Item sai dữ liệu
+PASS Kiểm tra chủ đồ vật
+PASS Chặn hai bài cùng đồ vật
+PASS Chặn tự gửi
+PASS Chặn User không tồn tại
+PASS Chặn xóa đồ vật có lịch sử
+PASS Chặn xóa User có liên kết
+PASS Danh sách bài chỉ đọc
+PASS Danh sách vật chỉ đọc
+Sua do vat thanh cong!
+PASS Item dùng chung tham chiếu
+
+>>> KẾT QUẢ THEO [Lọc kết hợp nâng cao] (Tìm thấy: 1 bài)
+========================================
+Mã bài đăng      : P01
+Tiêu đề          : Sách Java
+Người đăng       : U01
+Trạng thái       : OPEN
+Thời gian đăng   : 2026-11-03 23:18:41
+--- Thông tin đồ vật ---
+  + Mã đồ vật    : I01
+  + Tên đồ vật   : Sách mới
+  + Loại (Category): Sách
+  + Tình trạng   : Tốt
+  + Hình thức    : Trao đổi
+  + Mô tả        : Mô tả
+========================================
+PASS Tìm kiếm và lọc chuẩn hóa
+PASS Chặn yêu cầu chờ bị lặp
+PASS Chặn người khác duyệt
+PASS Duyệt sai không đổi trạng thái
+PASS Giữ chỗ bài và vật thật
+PASS Từ chối yêu cầu cạnh tranh
+PASS Chặn duyệt yêu cầu đã từ chối
+PASS Chặn gửi khi giữ chỗ
+PASS Chấp nhận chưa phải hoàn tất
+PASS Chặn hoàn tất sai người
+PASS Hoàn tất đồng bộ
+PASS Thống kê hoàn tất
+PASS Không hủy giao dịch hoàn tất
+PASS Lưu và nạp đúng thống kê
+PASS Khôi phục tham chiếu chung
+Them do vat thanh cong!
+-> Thành công: Đã đăng bài thành công [Mã: P01]!
+PASS Hủy giải phóng giữ chỗ
+PASS Từ chối không đóng bài
+-> Thành công: Đã đăng bài thành công [Mã: P99]!
+PASS Trạng thái rỗng trả false
+PASS Chặn trạng thái tùy ý
+Them do vat thanh cong!
+-> Thành công: Đã đăng bài thành công [Mã: P01]!
+PASS Chặn sửa bài sai chủ
+PASS Sửa tiêu đề qua Manager
+PASS Đóng bài từ chối yêu cầu đang chờ
+PASS Giữ bài có lịch sử yêu cầu
+Them do vat thanh cong!
+-> Thành công: Đã đăng bài thành công [Mã: P01]!
+PASS Xóa bài chưa có yêu cầu
+Xoa do vat thanh cong!
+PASS Xóa vật sau xóa bài không lịch sử
+TOTAL PASSED: 38

@@ -1,0 +1,289 @@
+FX PASS Khởi động kho trống
+FX PASS Thêm User từ form
+FX PASS Tự lưu sau khi thêm
+FX PASS Form giữ mở khi dữ liệu sai
+FX PASS Sửa nhập lỗi rồi lưu
+Them do vat thanh cong!
+FX PASS Bảng Item refresh sau thêm
+
+>>> KẾT QUẢ THEO [Lọc kết hợp nâng cao] (Tìm thấy: 0 bài)
+-> Không tìm thấy bài đăng phù hợp!
+-> Thành công: Đã đăng bài thành công [Mã: P001]!
+
+>>> KẾT QUẢ THEO [Lọc kết hợp nâng cao] (Tìm thấy: 1 bài)
+========================================
+Mã bài đăng      : P001
+Tiêu đề          : Bài kiểm thử
+Người đăng       : U001
+Trạng thái       : OPEN
+Thời gian đăng   : 2026-11-03 23:19:50
+--- Thông tin đồ vật ---
+  + Mã đồ vật    : I001
+  + Tên đồ vật   : Sách kiểm thử
+  + Loại (Category): Sách
+  + Tình trạng   : Còn tốt
+  + Hình thức    : Trao đổi
+  + Mô tả        : Sách học JavaFX
+========================================
+FX PASS Tạo Post từ đồ vật trong form
+
+>>> KẾT QUẢ THEO [Lọc kết hợp nâng cao] (Tìm thấy: 1 bài)
+========================================
+Mã bài đăng      : P001
+Tiêu đề          : Bài kiểm thử
+Người đăng       : U001
+Trạng thái       : OPEN
+Thời gian đăng   : 2026-11-03 23:19:50
+--- Thông tin đồ vật ---
+  + Mã đồ vật    : I001
+  + Tên đồ vật   : Sách kiểm thử
+  + Loại (Category): Sách
+  + Tình trạng   : Còn tốt
+  + Hình thức    : Trao đổi
+  + Mô tả        : Sách học JavaFX
+========================================
+
+>>> KẾT QUẢ THEO [Lọc kết hợp nâng cao] (Tìm thấy: 1 bài)
+========================================
+Mã bài đăng      : P001
+Tiêu đề          : Bài kiểm thử
+Người đăng       : U001
+Trạng thái       : OPEN
+Thời gian đăng   : 2026-11-03 23:19:50
+--- Thông tin đồ vật ---
+  + Mã đồ vật    : I001
+  + Tên đồ vật   : Sách kiểm thử
+  + Loại (Category): Sách
+  + Tình trạng   : Còn tốt
+  + Hình thức    : Trao đổi
+  + Mô tả        : Sách học JavaFX
+========================================
+
+>>> KẾT QUẢ THEO [Lọc kết hợp nâng cao] (Tìm thấy: 1 bài)
+========================================
+Mã bài đăng      : P001
+Tiêu đề          : Bài kiểm thử
+Người đăng       : U001
+Trạng thái       : OPEN
+Thời gian đăng   : 2026-11-03 23:19:50
+--- Thông tin đồ vật ---
+  + Mã đồ vật    : I001
+  + Tên đồ vật   : Sách kiểm thử
+  + Loại (Category): Sách
+  + Tình trạng   : Còn tốt
+  + Hình thức    : Trao đổi
+  + Mô tả        : Sách học JavaFX
+========================================
+FX PASS Gửi yêu cầu từ bảng Post
+
+>>> KẾT QUẢ THEO [Lọc kết hợp nâng cao] (Tìm thấy: 1 bài)
+========================================
+Mã bài đăng      : P001
+Tiêu đề          : Bài kiểm thử
+Người đăng       : U001
+Trạng thái       : OPEN
+Thời gian đăng   : 2026-11-03 23:19:50
+--- Thông tin đồ vật ---
+  + Mã đồ vật    : I001
+  + Tên đồ vật   : Sách kiểm thử
+  + Loại (Category): Sách
+  + Tình trạng   : Còn tốt
+  + Hình thức    : Trao đổi
+  + Mô tả        : Sách học JavaFX
+========================================
+FX PASS Nút chấp nhận đồng bộ trạng thái
+FX PASS Nút hoàn tất và xác nhận
+FX PASS Nạp lại file tự lưu
+Them do vat thanh cong!
+-> Thành công: Đã đăng bài thành công [Mã: P01]!
+Them do vat thanh cong!
+-> Thành công: Đã đăng bài thành công [Mã: P02]!
+Them do vat thanh cong!
+-> Thành công: Đã đăng bài thành công [Mã: P03]!
+Them do vat thanh cong!
+-> Thành công: Đã đăng bài thành công [Mã: P04]!
+Them do vat thanh cong!
+-> Thành công: Đã đăng bài thành công [Mã: P05]!
+Them do vat thanh cong!
+-> Thành công: Đã đăng bài thành công [Mã: P06]!
+FX PASS Điều hướng Tổng quan
+FX PASS Điều hướng Người dùng
+FX PASS Điều hướng Đồ vật
+
+>>> KẾT QUẢ THEO [Lọc kết hợp nâng cao] (Tìm thấy: 6 bài)
+========================================
+Mã bài đăng      : P01
+Tiêu đề          : Giáo trình lập trình Java
+Người đăng       : U01
+Trạng thái       : OPEN
+Thời gian đăng   : 2026-11-03 23:19:50
+--- Thông tin đồ vật ---
+  + Mã đồ vật    : I01
+  + Tên đồ vật   : Giáo trình lập trình Java
+  + Loại (Category): Sách
+  + Tình trạng   : Còn tốt
+  + Hình thức    : Trao đổi
+  + Mô tả        : Giáo trình có ghi chú, phù hợp môn OOP.
+========================================
+========================================
+Mã bài đăng      : P02
+Tiêu đề          : Đèn học để bàn
+Người đăng       : U02
+Trạng thái       : RESERVED
+Thời gian đăng   : 2026-11-03 23:19:50
+--- Thông tin đồ vật ---
+  + Mã đồ vật    : I02
+  + Tên đồ vật   : Đèn học để bàn
+  + Loại (Category): Đồ học tập
+  + Tình trạng   : Như mới
+  + Hình thức    : Bán
+  + Mô tả        : Đèn sáng 3 chế độ, dùng tốt.
+========================================
+========================================
+Mã bài đăng      : P03
+Tiêu đề          : Bộ dụng cụ vẽ kỹ thuật
+Người đăng       : U03
+Trạng thái       : CLOSED
+Thời gian đăng   : 2026-11-03 23:19:50
+--- Thông tin đồ vật ---
+  + Mã đồ vật    : I03
+  + Tên đồ vật   : Bộ dụng cụ vẽ kỹ thuật
+  + Loại (Category): Đồ học tập
+  + Tình trạng   : Còn tốt
+  + Hình thức    : Cho tặng
+  + Mô tả        : Đầy đủ thước và compa cho sinh viên.
+========================================
+========================================
+Mã bài đăng      : P04
+Tiêu đề          : Balo laptop 15 inch
+Người đăng       : U01
+Trạng thái       : OPEN
+Thời gian đăng   : 2026-11-03 23:19:50
+--- Thông tin đồ vật ---
+  + Mã đồ vật    : I04
+  + Tên đồ vật   : Balo laptop 15 inch
+  + Loại (Category): Phụ kiện
+  + Tình trạng   : Còn tốt
+  + Hình thức    : Cho tặng
+  + Mô tả        : Balo sạch, khóa kéo hoạt động tốt.
+========================================
+========================================
+Mã bài đăng      : P05
+Tiêu đề          : Giá sách mini
+Người đăng       : U02
+Trạng thái       : OPEN
+Thời gian đăng   : 2026-11-03 23:19:50
+--- Thông tin đồ vật ---
+  + Mã đồ vật    : I05
+  + Tên đồ vật   : Giá sách mini
+  + Loại (Category): Đồ dùng
+  + Tình trạng   : Như mới
+  + Hình thức    : Trao đổi
+  + Mô tả        : Giá sách gỗ nhỏ cho bàn học.
+========================================
+========================================
+Mã bài đăng      : P06
+Tiêu đề          : Máy tính cầm tay
+Người đăng       : U03
+Trạng thái       : OPEN
+Thời gian đăng   : 2026-11-03 23:19:50
+--- Thông tin đồ vật ---
+  + Mã đồ vật    : I06
+  + Tên đồ vật   : Máy tính cầm tay
+  + Loại (Category): Thiết bị
+  + Tình trạng   : Còn tốt
+  + Hình thức    : Bán
+  + Mô tả        : Máy hoạt động bình thường, có nắp.
+========================================
+FX PASS Điều hướng Bài đăng
+FX PASS Điều hướng Yêu cầu trao đổi
+FX PASS Điều hướng Thống kê
+
+>>> KẾT QUẢ THEO [Lọc kết hợp nâng cao] (Tìm thấy: 6 bài)
+========================================
+Mã bài đăng      : P01
+Tiêu đề          : Giáo trình lập trình Java
+Người đăng       : U01
+Trạng thái       : OPEN
+Thời gian đăng   : 2026-11-03 23:19:50
+--- Thông tin đồ vật ---
+  + Mã đồ vật    : I01
+  + Tên đồ vật   : Giáo trình lập trình Java
+  + Loại (Category): Sách
+  + Tình trạng   : Còn tốt
+  + Hình thức    : Trao đổi
+  + Mô tả        : Giáo trình có ghi chú, phù hợp môn OOP.
+========================================
+========================================
+Mã bài đăng      : P02
+Tiêu đề          : Đèn học để bàn
+Người đăng       : U02
+Trạng thái       : RESERVED
+Thời gian đăng   : 2026-11-03 23:19:50
+--- Thông tin đồ vật ---
+  + Mã đồ vật    : I02
+  + Tên đồ vật   : Đèn học để bàn
+  + Loại (Category): Đồ học tập
+  + Tình trạng   : Như mới
+  + Hình thức    : Bán
+  + Mô tả        : Đèn sáng 3 chế độ, dùng tốt.
+========================================
+========================================
+Mã bài đăng      : P03
+Tiêu đề          : Bộ dụng cụ vẽ kỹ thuật
+Người đăng       : U03
+Trạng thái       : CLOSED
+Thời gian đăng   : 2026-11-03 23:19:50
+--- Thông tin đồ vật ---
+  + Mã đồ vật    : I03
+  + Tên đồ vật   : Bộ dụng cụ vẽ kỹ thuật
+  + Loại (Category): Đồ học tập
+  + Tình trạng   : Còn tốt
+  + Hình thức    : Cho tặng
+  + Mô tả        : Đầy đủ thước và compa cho sinh viên.
+========================================
+========================================
+Mã bài đăng      : P04
+Tiêu đề          : Balo laptop 15 inch
+Người đăng       : U01
+Trạng thái       : OPEN
+Thời gian đăng   : 2026-11-03 23:19:50
+--- Thông tin đồ vật ---
+  + Mã đồ vật    : I04
+  + Tên đồ vật   : Balo laptop 15 inch
+  + Loại (Category): Phụ kiện
+  + Tình trạng   : Còn tốt
+  + Hình thức    : Cho tặng
+  + Mô tả        : Balo sạch, khóa kéo hoạt động tốt.
+========================================
+========================================
+Mã bài đăng      : P05
+Tiêu đề          : Giá sách mini
+Người đăng       : U02
+Trạng thái       : OPEN
+Thời gian đăng   : 2026-11-03 23:19:50
+--- Thông tin đồ vật ---
+  + Mã đồ vật    : I05
+  + Tên đồ vật   : Giá sách mini
+  + Loại (Category): Đồ dùng
+  + Tình trạng   : Như mới
+  + Hình thức    : Trao đổi
+  + Mô tả        : Giá sách gỗ nhỏ cho bàn học.
+========================================
+========================================
+Mã bài đăng      : P06
+Tiêu đề          : Máy tính cầm tay
+Người đăng       : U03
+Trạng thái       : OPEN
+Thời gian đăng   : 2026-11-03 23:19:50
+--- Thông tin đồ vật ---
+  + Mã đồ vật    : I06
+  + Tên đồ vật   : Máy tính cầm tay
+  + Loại (Category): Thiết bị
+  + Tình trạng   : Còn tốt
+  + Hình thức    : Bán
+  + Mô tả        : Máy hoạt động bình thường, có nắp.
+========================================
+FX PASS Cửa sổ kích thước tối thiểu
+FX TOTAL PASSED: 18
+

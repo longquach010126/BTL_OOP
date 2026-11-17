@@ -1,0 +1,12 @@
+Campus Exchange JavaFX verification
+Date: 2026-11-03
+Environment: Linux x64, OpenJDK 17.0.20, OpenJFX 17.0.10, GTK/Xvfb, software rendering.
+Source compiled with --release 17 and the packaged Windows JavaFX module JARs.
+Execution used Linux native JARs of the same JavaFX release.
+Backend: 38 checks passed.
+JavaFX UI: 18 checks passed through Button/Dialog interactions.
+Screens: six main pages at 1280x820, posts at minimum width 1040.
+Data: temporary fixture only. No user production data bundled.
+Maven build could not resolve its remote plugins because Java DNS was unavailable in this environment.
+Direct compiler and JavaFX UI execution succeeded.
+Windows PowerShell scripts and Windows native DLL execution require verification on Windows.
